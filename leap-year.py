@@ -1,2 +1,6 @@
 merhaba dünya
 nasılsın
+
+
+
+okul no ????
